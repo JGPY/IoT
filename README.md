@@ -11,13 +11,13 @@
 	第三阶段：项目实战
 
 
-#第一阶段：
+# 第一阶段：
 	入门STM32单片机开发
 	入门Altuim designer电路板绘制
 	入门阿里云服务器部署
 	内容零散不连贯
 	
-##入门STM32单片机开发
+## 入门STM32单片机开发
 	MCU-STM32
 	IDE=MDK5（keil编译器）
 	lib=3.5标准库
@@ -38,7 +38,7 @@
 	|---13-按键
 	|---14-人体热红外探测
 	
-##入门Altuim designer电路板绘制
+## 入门Altuim designer电路板绘制
 	EDA=altuim designer （版本14以上）
 	利用altuim degiser创建标准PCB工程：https://blog.csdn.net/qq_21508727/article/details/79547067
 	文件说明 ：https://github.com/JGPY/IoT/tree/master/%E4%BC%A0%E6%84%9F%E5%99%A8%E5%88%9D%E6%8E%A2
@@ -69,7 +69,7 @@
 	|---15、超声测距（OLED显示）
 	|---16、电机驱动PWM控制
 		
-##入门阿里云服务器部署
+## 入门阿里云服务器部署
 	阿里云服务器申请开通：
 	阿里云centos7配置JDK1.8+Tomcat7+Mysql5.7：https://blog.csdn.net/qq_21508727/article/details/79592349
 	阿里云Centos7安装Redis4.0.8：https://blog.csdn.net/qq_21508727/article/details/79596423
