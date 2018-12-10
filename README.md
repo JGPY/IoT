@@ -26,7 +26,7 @@
 	IDE:MDK5（keil编译器）
 	lib:3.5标准库
 	
-  [文件说明]()
+  [MCUProgram文件](https://github.com/JGPY/IoT/tree/master/theFirstStage/MCUProgram)说明
   	
 	MCUProgram                 #MCU控制器练习入门
         └── STM32F103VBT6
@@ -62,7 +62,7 @@
    
    [利用altuim degiser创建标准PCB工程](https://blog.csdn.net/qq_21508727/article/details/79547067)
    
-   [文件说明]()
+   [PCB文件](https://github.com/JGPY/IoT/tree/master/theFirstStage/PCB)说明
    
     PCB             #电路原理图和PCB绘制练习入门
     ├── controller
@@ -84,8 +84,10 @@
         ├── 9_震动
         ├── 传感器尺寸.jpg
         └── 传感器尺寸-修改.jpg
-###样板图	
-   ![Image text]https://github.com/JGPY/IoT/blob/master/data/image/theFirstStage.png
+        
+###样板图
+	
+   ![Image text](https://github.com/JGPY/IoT/blob/master/data/image/theFirstStage.png)
 
 ## 入门阿里云服务器部署
   [阿里云服务器申请开通]()
