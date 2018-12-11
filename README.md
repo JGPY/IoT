@@ -81,8 +81,7 @@
         
        
 ### 样板图
-	
-   ![样板图](https://github.com/JGPY/IoT/blob/master/data/image/theFirstStage.png) <br>
+  ![样板图](https://github.com/JGPY/IoT/blob/master/data/image/theFirstStage.png)
 
 ## 入门阿里云服务器部署
   [1_阿里云服务器申请开通]() <br>
