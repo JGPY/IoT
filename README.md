@@ -13,10 +13,10 @@
 	注：内容零散不连贯。
 	
 ## 入门STM32单片机开发
-  MCU-STM32 <br> 
-  C language <br> 
-  IDE:MDK5（keil编译器） <br> 
-  lib:3.5标准库 <br><br>
+  [MCU-STM32](https://www.stmcu.com.cn/) <br> 
+  [C language](http://www.runoob.com/cprogramming/c-tutorial.html) <br> 
+  IDE:[MDK5](http://www2.keil.com/mdk5/)（keil编译器） <br> 
+  lib:[V3.5标准库](https://github.com/JGPY/IoT/blob/master/theFirstStage/MCUProgram/STM32F103VBT6/Libraries.zip)<br><br>
   [MCUProgram文件](https://github.com/JGPY/IoT/tree/master/theFirstStage/MCUProgram)说明
   	
 	MCUProgram                 #MCU控制器练习入门
@@ -44,15 +44,16 @@
                     ├── keilClean.bat
                     ├── Libraries.zip
                     └── readme.md
+            
 ### 拓展
-  如果精力足够，了解树莓派和Python语言。 <br> 
-  [树莓派]() <br> 
-  [Python]() <br> 
-	
+  如果精力足够，了解Python语言和树莓派。 <br> 
+  [Python](https://www.python.org/) <br> 
+  [树莓派](https://www.raspberrypi.org/) <br> 
 
-	
+  当然支持国产[香蕉派](https://www.banana-pi.org.cn/)也是可以的<br> 
+		
 ## 入门Altuim designer电路板绘制
-  EDA=altuim designer （版本14以上）。 <br> 
+  EDA=[altuim designer](https://www.altium.com.cn/) （版本14以上）。 <br> 
   [1_利用altuim degiser创建标准PCB工程](https://blog.csdn.net/qq_21508727/article/details/79547067) <br> 
   [2_PCB板布局原则、布线技巧(图解)](https://github.com/JGPY/IoT/blob/master/doc/PCB%E6%9D%BF%E5%B8%83%E5%B1%80%E5%8E%9F%E5%88%99%E3%80%81%E5%B8%83%E7%BA%BF%E6%8A%80%E5%B7%A7(%E5%9B%BE%E8%A7%A3).pdf) <br>
   [3_硬件工程师手册-深圳华为](https://github.com/JGPY/IoT/blob/master/doc/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%89%8B%E5%86%8C-%E6%B7%B1%E5%9C%B3%E5%8D%8E%E4%B8%BA.pdf) <br><br>
@@ -78,8 +79,7 @@
         ├── 9_震动
         ├── 传感器尺寸.jpg
         └── 传感器尺寸-修改.jpg
-        
-       
+             
 ### 样板图
   ![样板图](https://github.com/JGPY/IoT/blob/master/data/image/theFirstStage.png)
 
@@ -93,9 +93,8 @@
 ### 前后端语言及其框架
   前端语言: HTML, CSS, JS <br>
   框架: [Element UI](http://element-cn.eleme.io/#/zh-CN), [Vue](https://cn.vuejs.org/)<br>
-  后端语言: [Kotlin]()/[Java](), [SQL]()<br>
-  后端框架: [Javalin]()/[SpringBoot](), [Mysql数据库]()<br>
- 
+  后端语言: [Kotlin](http://kotlinlang.org/)/[Java](http://www.runoob.com/java/java-tutorial.html), [SQL](http://www.runoob.com/sql/sql-tutorial.html)<br>
+  后端框架: [Javalin](https://javalin.io/)/[SpringBoot](https://spring.io/projects/spring-boot), [Mysql数据库](http://www.runoob.com/mysql/mysql-tutorial.html)<br>
     
 # 第二阶段
     
