@@ -16,8 +16,8 @@
   [MCU-STM32](https://www.stmcu.com.cn/) <br> 
   [C language](http://www.runoob.com/cprogramming/c-tutorial.html) <br> 
   IDE:[MDK5](http://www2.keil.com/mdk5/)（keil编译器） <br> 
-  lib:[V3.5标准库](https://github.com/JGPY/IoT/blob/master/theFirstStage/MCUProgram/STM32F103VBT6/Libraries.zip)<br><br>
-  [MCUProgram文件](https://github.com/JGPY/IoT/tree/master/theFirstStage/MCUProgram)说明
+  lib:[V3.5标准库](./theFirstStage/MCUProgram/STM32F103VBT6/Libraries.zip)<br><br>
+  [MCUProgram文件](./theFirstStage/MCUProgram)说明
   	
 	MCUProgram                 #MCU控制器练习入门
         └── STM32F103VBT6
@@ -55,9 +55,9 @@
 ## 入门Altuim designer电路板绘制
   EDA=[altuim designer](https://www.altium.com.cn/) （版本14以上）。 <br> 
   [1_利用altuim degiser创建标准PCB工程](https://blog.csdn.net/qq_21508727/article/details/79547067) <br> 
-  [2_PCB板布局原则、布线技巧(图解)](https://github.com/JGPY/IoT/blob/master/doc/PCB%E6%9D%BF%E5%B8%83%E5%B1%80%E5%8E%9F%E5%88%99%E3%80%81%E5%B8%83%E7%BA%BF%E6%8A%80%E5%B7%A7(%E5%9B%BE%E8%A7%A3).pdf) <br>
-  [3_硬件工程师手册-深圳华为](https://github.com/JGPY/IoT/blob/master/doc/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%89%8B%E5%86%8C-%E6%B7%B1%E5%9C%B3%E5%8D%8E%E4%B8%BA.pdf) <br><br>
-  [PCB文件](https://github.com/JGPY/IoT/tree/master/theFirstStage/PCB)说明
+  [2_PCB板布局原则、布线技巧(图解)](./doc/PCB%E6%9D%BF%E5%B8%83%E5%B1%80%E5%8E%9F%E5%88%99%E3%80%81%E5%B8%83%E7%BA%BF%E6%8A%80%E5%B7%A7(%E5%9B%BE%E8%A7%A3).pdf) <br>
+  [3_硬件工程师手册-深圳华为](./doc/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%89%8B%E5%86%8C-%E6%B7%B1%E5%9C%B3%E5%8D%8E%E4%B8%BA.pdf) <br><br>
+  [PCB文件](./theFirstStage/PCB)说明
   
     PCB             #电路原理图和PCB绘制练习入门
     ├── controller
@@ -81,7 +81,7 @@
         └── 传感器尺寸-修改.jpg
              
 ### 样板图
-  ![样板图](https://github.com/JGPY/IoT/blob/master/data/image/theFirstStage.png)
+  ![样板图](./data/image/theFirstStage.png)
 
 ## 入门阿里云服务器部署
   [1_阿里云服务器申请开通]() <br>
@@ -92,31 +92,30 @@
 
 ### 前后端语言及其框架
   前端语言: HTML, CSS, JS <br>
-  框架: [Element UI](http://element-cn.eleme.io/#/zh-CN), [Vue](https://cn.vuejs.org/)<br>
+  前端框架: [Element UI](http://element-cn.eleme.io/#/zh-CN), [Vue](https://cn.vuejs.org/)<br>
   后端语言: [Kotlin](http://kotlinlang.org/)/[Java](http://www.runoob.com/java/java-tutorial.html), [SQL](http://www.runoob.com/sql/sql-tutorial.html)<br>
   后端框架: [Javalin](https://javalin.io/)/[SpringBoot](https://spring.io/projects/spring-boot), [Mysql数据库](http://www.runoob.com/mysql/mysql-tutorial.html)<br>
     
 # 第二阶段
     
-  串口协议
-  #TODO
+  串口协议 <br>
+  #TODO  <br>
   IIC协议
-  #TODO 
+  #TODO  <br>
   SPI协议
-  #TODO
+  #TODO <br>
   TCP/IP
-  #TODO
-  MOTT
-  #TODO
-
+  #TODO <br>
+  MQTT
+  #TODO <br>
 
 
 # 第三阶段
     
   前端
-  #TODO
+  #TODO  <br>
   后端
-  #TODO
+  #TODO  <br>
   终端
-  #TODO
+  #TODO  <br>
   
