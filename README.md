@@ -84,7 +84,7 @@
   ![样板图](./data/image/theFirstStage.png)
 
 ## 入门阿里云服务器部署
-  [1_阿里云服务器申请开通]() <br>
+  [1_阿里云服务器申请开通](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=4pt5vrn0) <br>
   [2_阿里云centos7配置JDK1.8+Tomcat7+Mysql5.7](https://blog.csdn.net/qq_21508727/article/details/79592349) <br>
   [3_阿里云Centos7安装Redis4.0.8](https://blog.csdn.net/qq_21508727/article/details/79596423) <br>
   [4_阿里云Centos7安装Nginx服务器实现反向代理](https://blog.csdn.net/qq_21508727/article/details/80071174) <br>
