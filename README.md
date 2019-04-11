@@ -10,6 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
    第三阶段：项目实战 <br>
 
+
 # 第一阶段
 - 入门STM32单片机开发 <br>
 - 入门Altuim designer电路板绘制 <br>
@@ -20,8 +21,9 @@
   [MCU-STM32](https://www.stmcu.com.cn/) <br> 
   [C language](http://www.runoob.com/cprogramming/c-tutorial.html) <br> 
   IDE:[MDK5](http://www2.keil.com/mdk5/)（keil编译器） <br> 
-  lib:[V3.5标准库](./theFirstStage/MCUProgram/STM32F103VBT6/Libraries.zip)<br><br>
-  [MCUProgram文件](./theFirstStage/MCUProgram)说明
+  lib:[V3.5标准库](./theFirstStage/MCUProgram/STM32F103VBT6/Libraries.zip)<br><
+  
+  [MCUProgram文件](./theFirstStage/MCUProgram)说明：
   	
 	MCUProgram                 #MCU控制器练习入门
         └── STM32F103VBT6
@@ -59,7 +61,7 @@
   EDA=[altuim designer](https://www.altium.com.cn/) （版本14以上）。 <br> 
   [1. 利用altuim degiser创建标准PCB工程。](https://blog.csdn.net/qq_21508727/article/details/79547067) <br> 
   [2. PCB板布局原则、布线技巧(图解)。](./doc/PCB%E6%9D%BF%E5%B8%83%E5%B1%80%E5%8E%9F%E5%88%99%E3%80%81%E5%B8%83%E7%BA%BF%E6%8A%80%E5%B7%A7(%E5%9B%BE%E8%A7%A3).pdf) <br>
-  [3. 硬件工程师手册-深圳华为。](./doc/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%89%8B%E5%86%8C-%E6%B7%B1%E5%9C%B3%E5%8D%8E%E4%B8%BA.pdf) <br><br>
+  [3. 硬件工程师手册-深圳华为。](./doc/%E7%A1%AC%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%89%8B%E5%86%8C-%E6%B7%B1%E5%9C%B3%E5%8D%8E%E4%B8%BA.pdf) <br>
   
   [PCB文件](./theFirstStage/PCB)说明:
   
@@ -96,10 +98,11 @@
 
 ### 前后端语言及其框架
   前端语言: HTML, CSS, JS <br>
-  前端框架: [Vue](https://cn.vuejs.org/)<br>, [Element UI](http://element-cn.eleme.io/#/zh-CN)
+  前端框架: [Vue](https://cn.vuejs.org/), [Element UI](http://element-cn.eleme.io/#/zh-CN) <br>
   后端语言: [Kotlin](http://kotlinlang.org/)/[Java](http://www.runoob.com/java/java-tutorial.html), [SQL](http://www.runoob.com/sql/sql-tutorial.html)<br>
   后端框架: [Javalin](https://javalin.io/)/[SpringBoot](https://spring.io/projects/spring-boot)
-    
+
+
 # 第二阶段
 - 了解物理层的通信协议 <br>
 - 了解网络层的通信协议 <br>
@@ -139,17 +142,21 @@
 
 
 # 第三阶段
-- 项目结构<br>
+- 系统结构<br>
 - 了解开源物联网管理平台 <br>
 - 设计IoT硬件 <br>
 - 场景应用 <br>
+
+
 ##　系统结构
     #TODO
-   
+
+
 ## IoT云端
 
 ### [开源物联网管理平台](https://github.com/JGPY/hsweb-iot-cloud)
   目的是提供一个开源的物联网管理平台,支持各种设备接入,并完成数据上报,分析,处理等自定义功能。
+ 
   
 ## IoT设备
     #TODO
