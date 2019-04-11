@@ -21,7 +21,7 @@
   [MCU-STM32](https://www.stmcu.com.cn/) <br> 
   [C language](http://www.runoob.com/cprogramming/c-tutorial.html) <br> 
   IDE:[MDK5](http://www2.keil.com/mdk5/)（keil编译器） <br> 
-  lib:[V3.5标准库](./theFirstStage/MCUProgram/STM32F103VBT6/Libraries.zip)<br><
+  lib:[V3.5标准库](./theFirstStage/MCUProgram/STM32F103VBT6/Libraries.zip)<br>
   
   [MCUProgram文件](./theFirstStage/MCUProgram)说明：
   	
